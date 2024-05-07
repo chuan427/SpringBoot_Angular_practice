@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Java_pravtice_withAngular\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+740056941.index
+3018250795.index
+1583445888.index
+3039123117.index
+2661796164.index
+1950362072.index
